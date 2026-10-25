@@ -105,12 +105,12 @@ Dataset Jejak Piknik melengkapi direktori bengkel dengan berbagai jenis layanan 
 
 ```text
 surabaya-motorcycle-workshops-scraper-eda/
-├── dataset/
-│   └── File dataset hasil scraping
-├── notebook/
-│   └── Notebook utama untuk scraping dan EDA
+├── Hasil Coding.pdf/
+│   └── File  code hasil scraping
+├── Code.ipynb/
+│   └── Code utama untuk scraping dan EDA
 ├── README.md
-└── requirements.txt
+
 ```
 
 ## 🚀 Cara Menjalankan Proyek
